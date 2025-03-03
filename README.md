@@ -9,3 +9,7 @@ Este repositório disponibiliza modelos de chassi para competições de robótic
 O primeiro modelo segue um desing mais compacto e simples, com poucas peças para montar e poder se divertir o quanto antes!
 
 ![ModelProject](https://raw.githubusercontent.com/POGROBO-UNILAB/ChassiModels/refs/heads/main/Chassi%20One/ChassiModelOne.png)
+
+### 📄 Licença
+
+   >GNU GENERAL PUBLIC LICENSE Version 3
